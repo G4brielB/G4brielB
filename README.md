@@ -1,7 +1,13 @@
 ## Seja bem vindo a este perfil! <img height="50em" src="https://i.redd.it/4ur8wlpamjo91.gif">
 
 
-Aqui está algumas linguagens que tenho conhecimento e estou desenvolvendo codigo com cada uma delas para subir aqui!
+Conhecimento Front-End <h1></></h1>
+HTML, CSS, JavaScript, Jquery, BootStrap, TailwindCSS, React.
+
+Aprimorando tecnicas para frontend utilizando o React
+Estudando no momento: springboot, banco de dados, NodeJS, Docker
+EM BREVE projetos backend
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
