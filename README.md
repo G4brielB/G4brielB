@@ -1,4 +1,4 @@
-## Seja bem vindo a este perfil! <img height="50em" src="https://i.redd.it/4ur8wlpamjo91.gif">
+## Seja bem vindo a este perfil! <img height="50px" src="https://i.redd.it/4ur8wlpamjo91.gif">
 
 
 Conhecimento Front-End <h1></></h1>
