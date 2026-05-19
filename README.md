@@ -1,35 +1,98 @@
-## Seja bem vindo a este perfil! <img height="50px" src="https://i.redd.it/4ur8wlpamjo91.gif">
 
+# 👨‍💻 Gabriel de Carvalho Silva
 
-Conhecimento Front-End <h1></></h1>
-HTML, CSS, JavaScript, Jquery, BootStrap, TailwindCSS, React.
+<img align="right" height="180em" src="https://i.redd.it/4ur8wlpamjo91.gif"/>
 
-Aprimorando tecnicas para frontend utilizando o React
-Estudando no momento: springboot, banco de dados, NodeJS, Docker
-EM BREVE projetos backend
+## 🚀 Sobre mim
+
+Desenvolvedor Full-stack apaixonado por tecnologia, interfaces modernas e experiências responsivas.
+Atualmente focado em aprimorar minhas habilidades com aplicações web modernas utilizando React e ecossistema JavaScript.
+
+📚 Estudando atualmente:
+- Java
+- AWS
+
+⚡ Em breve:
+- Projetos Full Stack
+- APIs REST
+- Backend profissional
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="HTML" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+
+<img align="center" alt="CSS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
+<img align="center" alt="JavaScript" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
+<img align="center" alt="React" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+
+<img align="center" alt="NextJS" height="40" width="50"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+
+<img align="center" alt="NodeJS" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+
+<img align="center" alt="Bootstrap" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+
+<img align="center" alt="TailwindCSS" height="40" width="50"
+src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
+
+<img align="center" alt="Java" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="MySQL" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+
+<img align="center" alt="PostgreSQL" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+<img align="center" alt="MongoDB" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+
+<img align="center" alt="Docker" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+<img align="center" alt="Linux" height="40" width="50"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 
 </div>
-<br>
-<img height="100px" src="https://i.pinimg.com/originals/4d/67/0e/4d670e6307fb44c4d4b6d8d14a5661fa.gif">
 
-![G4brielB's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielB&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-<!--
-**G4brielB/G4brielB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 📊 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=G4brielB&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em"
+src="https://github-readme-streak-stats.herokuapp.com/?user=G4brielB&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Contato
+
+<div>
+<a href="https://github.com/G4brielB" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+</div>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer"/>
+```
+
