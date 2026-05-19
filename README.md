@@ -1,6 +1,5 @@
 
 <div style="display: flex;">  👨‍💻 <h1>Gabriel de Carvalho Silva</h1>
-
 <img align="right" height="50px" src="https://i.redd.it/4ur8wlpamjo91.gif"/>
 </div>
 
@@ -23,49 +22,34 @@ Atualmente focado em aprimorar minhas habilidades com aplicações web modernas 
 ## 🛠️ Tecnologias & Ferramentas
 
 <div style="display: flex;"><br>
-
 <img align="center" alt="HTML" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
 <img align="center" alt="CSS" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 <img align="center" alt="JavaScript" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
 <img align="center" alt="React" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
 <img align="center" alt="NextJS" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-
 <img align="center" alt="NodeJS" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
 <img align="center" alt="Bootstrap" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-
 <img align="center" alt="TailwindCSS" height="40" width="50"
 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-
 <img align="center" alt="Java" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-
 <img align="center" alt="MySQL" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
 <img align="center" alt="PostgreSQL" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-
 <img align="center" alt="MongoDB" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-
 <img align="center" alt="Docker" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-
 <img align="center" alt="Linux" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
 </div>
 
 ---
@@ -86,10 +70,14 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=G4brielB&theme=tokyo
 
 ## 🌐 Contato
 
-<div>
+<div style="display: flex;">
 <a href="https://github.com/G4brielB" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
+<a href="https://www.linkedin.com/in/gabriel-de-carvalho-b829372b8/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </div>
 
 ---
