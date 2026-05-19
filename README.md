@@ -18,34 +18,34 @@ Atualmente focado em aprimorar minhas habilidades com aplicações web modernas 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;"><br>
-<img align="center" alt="HTML" height="40" width="50"
+<div style="display: block-inline"><br>
+<img style="margin-right: 10px;" align="center" alt="HTML" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="CSS" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="JavaScript" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="JavaScript" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="React" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="React" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" alt="NextJS" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="NextJS" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-<img align="center" alt="NodeJS" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="NodeJS" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img align="center" alt="Bootstrap" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="Bootstrap" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img align="center" alt="TailwindCSS" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="TailwindCSS" height="40" width="50"
 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-<img align="center" alt="Java" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="Java" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<img align="center" alt="MySQL" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="MySQL" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-<img align="center" alt="PostgreSQL" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="PostgreSQL" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img align="center" alt="MongoDB" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="MongoDB" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-<img align="center" alt="Docker" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="Docker" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img align="center" alt="Linux" height="40" width="50"
+<img style="margin-right: 10px;" align="center" alt="Linux" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
@@ -56,7 +56,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=G4brielB&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats.vercel.app/api?username=G4brielB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
 
 <img height="180em"
 src="https://github-readme-streak-stats.herokuapp.com/?user=G4brielB&theme=tokyonight&hide_border=true"/>
@@ -72,7 +73,8 @@ src="https://github-readme-streak-stats.herokuapp.com/?user=G4brielB&theme=tokyo
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/gabriel-de-carvalho-b829372b8/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielB&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 
 </div>
