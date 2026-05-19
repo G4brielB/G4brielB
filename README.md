@@ -18,7 +18,7 @@ Atualmente focado em aprimorar minhas habilidades com aplicações web modernas 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: flex; gap: 5px"><br>
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;"><br>
 <img align="center" alt="HTML" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="40" width="50"
