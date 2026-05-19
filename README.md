@@ -21,49 +21,34 @@ Atualmente focado em aprimorar minhas habilidades com aplicações web modernas 
 ## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-
 <img alt="HTML" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>&nbsp;
-
 <img alt="CSS" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>&nbsp;
-
 <img alt="JavaScript" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>&nbsp;
-
 <img alt="React" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>&nbsp;
-
 <img alt="NextJS" height="40" width="50"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>&nbsp;
-
 <img alt="NodeJS" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>&nbsp;
-
 <img alt="Bootstrap" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"/>&nbsp;
-
 <img alt="TailwindCSS" height="40" width="50"
 src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"/>&nbsp;
-
 <img alt="Java" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>&nbsp;
-
 <img alt="MySQL" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>&nbsp;
-
 <img alt="PostgreSQL" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>&nbsp;
-
 <img alt="MongoDB" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>&nbsp;
-
 <img alt="Docker" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>&nbsp;
-
 <img alt="Linux" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
-
 </p>
 
 ---
@@ -92,9 +77,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielB&lay
 <a href="https://github.com/G4brielB" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 &nbsp;
-
 <a href="https://www.linkedin.com/in/gabriel-de-carvalho-b829372b8/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
