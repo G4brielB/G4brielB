@@ -1,7 +1,8 @@
 
-# 👨‍💻 Gabriel de Carvalho Silva
+<div style="display: flex;"> # 👨‍💻 Gabriel de Carvalho Silva
 
-<img align="right" height="180em" src="https://i.redd.it/4ur8wlpamjo91.gif"/>
+<img align="right" height="4em" src="https://i.redd.it/4ur8wlpamjo91.gif"/>
+</div>
 
 ## 🚀 Sobre mim
 
@@ -21,7 +22,7 @@ Atualmente focado em aprimorar minhas habilidades com aplicações web modernas 
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
+<div style="display: flex; gap: 5px;"><br>
 
 <img align="center" alt="HTML" height="40" width="50"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
