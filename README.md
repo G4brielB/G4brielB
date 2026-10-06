@@ -61,8 +61,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api?username=G4brielB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-streak-stats.demolab.com/?user=G4brielB&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=G4brielB&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielB&layout=compact&langs_count=8&theme=tokyonight"/>
