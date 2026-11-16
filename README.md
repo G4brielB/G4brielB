@@ -59,15 +59,16 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux
 <div align="center">
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=G4brielB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+src="https://github-stats-extended.vercel.app/api?username=G4brielB&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-streak-stats-eight.vercel.app/?user=G4brielB&theme=tokyonight&hide_border=true"/>
+src="https://streak-stats.demolab.com/?user=G4brielB&theme=tokyonight&hide_border=true"/>
 
 <img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=G4brielB&layout=compact&langs_count=8&theme=tokyonight"/>
+src="https://github-stats-extended.vercel.app/api/top-langs/?username=G4brielB&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </div>
+
 
 ---
 
